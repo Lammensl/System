@@ -38,7 +38,7 @@ void nsSysteme::Stat (const char * file_name, struct stat * buf)
     throw (CExc)
 {
   /// CORPS A RAJOUTER PAR VOUS
-} // Stat()
+} // Stat() 
 
 
 

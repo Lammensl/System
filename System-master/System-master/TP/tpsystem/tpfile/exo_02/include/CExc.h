@@ -108,4 +108,4 @@ std::ostream & nsSysteme::operator << (std::ostream & os,
 
 
 
-#endif    /* __CEXC_H__ */
+#endif    /* __CEXC_H__ */ 
